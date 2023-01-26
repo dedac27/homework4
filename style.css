@@ -1,0 +1,40 @@
+h1 {
+    color: blue;
+}
+
+.header2 {
+    color: green;
+}
+
+#header3 {
+    background-color: palevioletred;
+}
+
+[lang="en"] {
+    background: yellowgreen;
+
+}
+
+body>h5 {
+    color: crimson;
+}
+
+body p {
+    color: indigo;
+}
+
+body div>h6.header6#header6 {
+    background-color: chartreuse;
+}
+
+h5+p {
+    background-color: darkorange;
+}
+
+h5.header5 {
+    color: gold;
+}
+
+li:first-child {
+    text-align: right;
+}
